@@ -87,6 +87,7 @@ Server runs on http://localhost:5000
 Frontend Setup
 bashcd frontend
 npm install
+
 Create a .env file in frontend/:
 envVITE_API_BASE_URL=http://localhost:5000/api
 Run the frontend:
