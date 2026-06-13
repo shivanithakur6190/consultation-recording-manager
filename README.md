@@ -59,16 +59,27 @@ React Hot Toast
 📁 Project Structure
 
 ├── backend/
+
   ├── config/
+  
   ├── controllers/
+  
   ├── middleware/
+  
   ├── models/
+  
   ├── routes/
+  
   ├── services/
+  
   ├── utils/
+  
   ├── validations/
+  
   └── server.js
+
 └── frontend/
+
      └── src/
         ├── components/
         ├── pages/
